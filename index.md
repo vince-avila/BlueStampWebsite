@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Infinity Mirror Clock
+Throughout my three weeks at BlueStamp, I have been working on building an LED Infinity Mirror Clock. Circuits and coding became the biggest part of the project, but the hands on work with these circuits and putting everything together was the most fun. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Vincent Avila | Saratoga High School | Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
