@@ -18,4 +18,5 @@ This is my first milestone for my project, the LED Infinity Mirror Clock. The cl
 
 <img src="image folder/carbon.png" width=500 align=center style="float:right; padding-right:10px">
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628266615/video_to_markdown/images/youtube--2-4P5dfDjyw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2-4P5dfDjyw "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628266615/video_to_markdown/images/youtube--2-4P5dfDjyw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2-4P5dfDjyw "First Milestone")
+{:target="_blank" rel="noopener"}
