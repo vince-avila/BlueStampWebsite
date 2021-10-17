@@ -5,7 +5,7 @@ Throughout my three weeks at BlueStamp, I have been working on building an LED I
 |:--:|:--:|:--:|:--:|
 | Vincent A. | Saratoga High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](![image](https://user-images.githubusercontent.com/88203817/137640593-7c5a17da-6b82-45b9-b43f-41f630ac96b4.png))
+![Headstone Image](https://user-images.githubusercontent.com/88203817/137640593-7c5a17da-6b82-45b9-b43f-41f630ac96b4.png)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
